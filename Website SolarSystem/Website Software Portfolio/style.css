@@ -1,0 +1,28 @@
+body {background-color:black;}
+h   {color:Purple;}
+p    {color:Purple;}
+li {position: relative; left: -100px;}
+
+
+
+
+.floatcenter {
+    margin: auto;
+    width: 10%;
+    border: 3px solid #73AD21;
+    padding: 50px;
+}
+a:link {
+
+	padding-top: 50px;
+
+}
+#headerNav{
+
+text-align:center;
+padding:0;
+margin:0 auto;
+
+}
+
+

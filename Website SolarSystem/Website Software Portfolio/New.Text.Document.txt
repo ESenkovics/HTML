@@ -1,0 +1,11 @@
+body {background-color:black;}
+h   {color:Purple;}
+p    {color:Purple;}
+
+
+#cent {
+    margin: auto;
+    width: 10%;
+    border: 3px solid #73AD21;
+    padding: 50px;
+}
